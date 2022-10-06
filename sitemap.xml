@@ -17,6 +17,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://sgt-bots.github.io/SGT-Bots-Website/credits</loc>
+  <lastmod>2022-10-06T13:18:10+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
   <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_0_0</loc>
   <lastmod>2022-09-24T13:18:10+00:00</lastmod>
   <priority>0.50</priority>
