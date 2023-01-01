@@ -12,6 +12,11 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://sgt-bots.github.io/SGT-Bots-Website/TheShadowMusic</loc>
+  <lastmod>2022-09-24T13:18:10+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
   <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs</loc>
   <lastmod>2022-09-24T13:18:10+00:00</lastmod>
   <priority>0.80</priority>
@@ -32,33 +37,8 @@
   <priority>0.40</priority>
 </url>
 <url>
-  <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_0_1</loc>
-  <lastmod>2022-09-24T13:18:10+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_0_2</loc>
-  <lastmod>2022-09-24T13:18:10+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_0_3</loc>
-  <lastmod>2022-09-24T13:18:10+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_0_4</loc>
-  <lastmod>2022-09-24T13:18:10+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
   <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_1_0</loc>
   <lastmod>2022-10-09T13:18:10+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_1_2</loc>
-  <lastmod>2022-10-24T13:18:10+00:00</lastmod>
   <priority>0.30</priority>
 </url>
 <url>
@@ -66,6 +46,12 @@
   <lastmod>2022-10-14T13:18:10+00:00</lastmod>
   <priority>0.30</priority>
 </url>
+<url>
+  <loc>https://sgt-bots.github.io/SGT-Bots-Website/Changelogs/tsm-2_3_0</loc>
+  <lastmod>2022-10-14T13:18:10+00:00</lastmod>
+  <priority>0.30</priority>
+</url>
+
 
 
 
